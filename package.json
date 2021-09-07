@@ -1,0 +1,11 @@
+{
+  "name": "be-middleware",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^2.1.0"
+  }
+}
